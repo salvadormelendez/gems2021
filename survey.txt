@@ -1,0 +1,45 @@
+***Please answer the following questions and save the file with your name (example: john_smith.txt):
+
+1.- From the person you investigated, please provide the following information:
+User (hint: is the first part of the email address, everything before the @): 
+PIN: 
+Favorite Movie: 
+Country Code (hint: is NOT 915, is a 1-digit or 2-digit number): 
+Year of Birth: 
+
+2.- What is the command that you've used to crack/guess the passwords using John The Ripper?
+
+
+3.- What python script did you use to decode the image with a secret message?
+
+
+4.- What is the secret message that you decoded from the image?
+
+
+5.- What python script did you use to solve the puzzles with Personal Identifiable Information (PII)?
+
+
+6.- Tell us something you liked about the GEMS program.
+
+
+7.- Tell us something you did NOT like about the GEMS program.
+
+
+8.- Would you recommend the GEMS program to a friend?
+
+
+9.- How can we improve the quality of the GEMS program?
+
+
+10.- From 1 to 10, what score will you give to the GEMS program? (1 is the lowest score, 10 is the highest score)
+
+
+11.- We will send you a Certificate of Participation for GEMS II, please provide us the following information:
+
+What's your name: 
+What's your email address: 
+Did you attend GEMS in El Paso or Las Cruces?: 
+
+
+THANK YOU!!!
+GEMS
